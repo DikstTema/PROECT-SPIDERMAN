@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Pacifico&family=Roboto+Slab:wght@500&family=Roboto:wght@300&display=swap');
+
+h2 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: blue;
+}
+
+
+p {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: blue;
+}
+
+h3 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: black;
+}
+
+p2 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: black;
+}
+
+h1 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color:  red;
+}
+
+p3 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color:  red;
+}
+
+h4 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: darkgreen;
+}
+
+p4 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: darkgreen;
+}
+
+h5 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: darkorange;
+}
+
+p5 {
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 36px;
+    color: darkorange;
+}
+
